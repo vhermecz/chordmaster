@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "5d3072ab65be815df8fc",
-    "url": "/chordmaster/static/js/main.378434b0.chunk.js"
+    "revision": "059006710f558006b9fd",
+    "url": "/chordmaster/static/js/main.ea6b513a.chunk.js"
   },
   {
     "revision": "efc3b73481c500d0f96b",
@@ -20,52 +20,52 @@ self.__precacheManifest = [
     "url": "/chordmaster/static/media/fa-brands-400.a06da7f0.woff2"
   },
   {
-    "revision": "c1868c9545d2de1cf8488f1dadd8c9d0",
-    "url": "/chordmaster/static/media/fa-brands-400.c1868c95.eot"
-  },
-  {
     "revision": "ec3cfddedb8bebd2d7a3fdf511f7c1cc",
     "url": "/chordmaster/static/media/fa-brands-400.ec3cfdde.woff"
   },
   {
-    "revision": "f89ea91ecd1ca2db7e09baa2c4b156d1",
-    "url": "/chordmaster/static/media/fa-regular-400.f89ea91e.woff"
-  },
-  {
-    "revision": "261d666b0147c6c5cda07265f98b8f8c",
-    "url": "/chordmaster/static/media/fa-regular-400.261d666b.eot"
+    "revision": "c1868c9545d2de1cf8488f1dadd8c9d0",
+    "url": "/chordmaster/static/media/fa-brands-400.c1868c95.eot"
   },
   {
     "revision": "c20b5b7362d8d7bb7eddf94344ace33e",
     "url": "/chordmaster/static/media/fa-regular-400.c20b5b73.woff2"
   },
   {
-    "revision": "db78b9359171f24936b16d84f63af378",
-    "url": "/chordmaster/static/media/fa-regular-400.db78b935.ttf"
+    "revision": "261d666b0147c6c5cda07265f98b8f8c",
+    "url": "/chordmaster/static/media/fa-regular-400.261d666b.eot"
   },
   {
     "revision": "13685372945d816a2b474fc082fd9aaa",
     "url": "/chordmaster/static/media/fa-brands-400.13685372.ttf"
   },
   {
-    "revision": "89ffa3aba80d30ee0a9371b25c968bbb",
-    "url": "/chordmaster/static/media/fa-regular-400.89ffa3ab.svg"
+    "revision": "f89ea91ecd1ca2db7e09baa2c4b156d1",
+    "url": "/chordmaster/static/media/fa-regular-400.f89ea91e.woff"
+  },
+  {
+    "revision": "db78b9359171f24936b16d84f63af378",
+    "url": "/chordmaster/static/media/fa-regular-400.db78b935.ttf"
   },
   {
     "revision": "b15db15f746f29ffa02638cb455b8ec0",
     "url": "/chordmaster/static/media/fa-solid-900.b15db15f.woff2"
   },
   {
-    "revision": "1ab236ed440ee51810c56bd16628aef0",
-    "url": "/chordmaster/static/media/fa-solid-900.1ab236ed.ttf"
+    "revision": "89ffa3aba80d30ee0a9371b25c968bbb",
+    "url": "/chordmaster/static/media/fa-regular-400.89ffa3ab.svg"
+  },
+  {
+    "revision": "bea989e82b07e9687c26fc58a4805021",
+    "url": "/chordmaster/static/media/fa-solid-900.bea989e8.woff"
   },
   {
     "revision": "a0369ea57eb6d3843d6474c035111f29",
     "url": "/chordmaster/static/media/fa-solid-900.a0369ea5.eot"
   },
   {
-    "revision": "bea989e82b07e9687c26fc58a4805021",
-    "url": "/chordmaster/static/media/fa-solid-900.bea989e8.woff"
+    "revision": "1ab236ed440ee51810c56bd16628aef0",
+    "url": "/chordmaster/static/media/fa-solid-900.1ab236ed.ttf"
   },
   {
     "revision": "0cb5a5c0d251c109458c85c6afeffbaa",
@@ -176,7 +176,7 @@ self.__precacheManifest = [
     "url": "/chordmaster/static/media/gsharpm.6867fb7e.mp3"
   },
   {
-    "revision": "78dcc386620be681c57c0369c988b98e",
+    "revision": "7833793754488484f5cc56cac461c364",
     "url": "/chordmaster/index.html"
   }
 ];
